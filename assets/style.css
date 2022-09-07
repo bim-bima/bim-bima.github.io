@@ -1,8 +1,32 @@
 .navbar-top{
     background-color: #0066cb;
 }
+.navbar-top img{
+    width: 19px;
+    margin-right: 5px;
+}
+.navbar-top a{
+    color: white;
+    padding: 12px 0;
+}
+.navbar-top a:hover{
+    color: #0066cb;
+    background-color: white;
+}
 .navbar-top a{
     font-size:smaller;
+}
+.navbar-mid a{
+    color: black;
+}
+.navbar-mid a:hover{
+    color: #0066cb;
+}
+.navbar-bottom a{
+    color: black;
+}
+.navbar-bottom a:hover{
+    color: #0066cb;
 }
 .nb a{
     font-size: smaller;
